@@ -26,6 +26,7 @@ This is the original section of code from the website before adding any sematic 
             </ul>
         </div>
 ```
+This is the original section after adding sematic elements to the code. 
 
 ```html
     <header>
